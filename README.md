@@ -56,5 +56,3 @@ Its isolated-flow design enables **repeatable dosing**, smooth operation, and ra
 **Jaykumar Shah**  
 📧 shahjay1012@gmail.com  
 🔗 [[LinkedIn](https://www.linkedin.com/in/jay-shah-64b98078/)] | [[GitHub](https://github.com/shahjay1012)]
-
----
